@@ -11,29 +11,33 @@ body {
 
 h1 {
 	text-align: center;
-	color: blue;
+	color: darkblue;
 	background: white;
 	font-size: 80px;
 }
 
 #shakespeare {
 	width: 300px;
-	height: 200px;
+	height: 250px;
 	margin-left: 110px;
 	margin-right: 5px;
 }
 
 #foto {
 	width: 500px;
-	height: 200px;
+	height: 250px;
 	margin-right: 5px;
 	margin-left: 5px;
 }
 
 #austen {
 	width: 300px;
-	height: 200px;
+	height: 250px;
 	margin-left: 5px;
+}
+
+#espaco {
+	text-align: center;
 }
 
 h3 {
@@ -42,19 +46,15 @@ h3 {
 	font-size: 40px;
 	font-family: Times New Roman;
 	margin-bottom: 5px;
-	background: lightgrey;
+	background: white;
 
 }
 
-#frase {
+.texto-centralizado {
 	text-align: center;
 }
 
-#confira {
-	text-align: center;
-}
-
-#romeu {
+.capas {
 	width: 150px;
 	height: 200px;
 	display: block;
@@ -62,54 +62,3 @@ h3 {
 	margin-left: auto;
 }
 
-#julieta {
-	text-align: center;
-}
-
-#macbeth {
-	width: 150px;
-	height: 200px;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-#mac {
-	text-align: center;
-}
-
-#orgulho {
-	width: 150px;
-	height: 200px;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-#preconceito {
-	text-align: center;
-}
-
-#emma {
-	width: 150px;
-	height: 200px;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-#em {
-	text-align: center;
-}
-
-#domcasmurro {
-	width: 150px;
-	height: 200px;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-#dom {
-	text-align: center;
-}
